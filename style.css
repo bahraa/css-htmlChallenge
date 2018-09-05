@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+.warpper{
+    width: 100%;
+    margin: 0 auto;
+    margin: 0;
+}
+
+.container{
+    margin: 0;
+}
+
+.icons{
+
+    background-color:rgb(36, 35, 35);
+    color:white;
+    height: 5%;
+    display: flex;
+  
+}
+
+.icons i{
+    padding:10px;
+    pad: 10px;
+}
+
+.rightIcons{
+    float: right;
+  margin-left: 50%;
+}
+
+
+.links{
+    float: right;
+ margin-left: 55%;
+
+}
+.links a{
+    text-decoration: none;
+    color: black;
+}
+.navButton{
+   width: 100px;
+    border-color: green;
+    border-radius: 70%;
+    color: green;
+    padding: 5px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.navbar{
+    background-color:white;
+    margin-top: -10;
+    height: 100%;
+    display: flex;
+}
+.h1{
+    margin-top: 3px;
+  margin-left: 5px;
+  display: flex;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.laptopSection{
+    background-color: #4ba367;
+    text-align: center;
+    margin-bottom: 15%;
+
+}
+
+.image{
+    background-color: #4ba367;  
+}
+
+.image{
+
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.input1{
+    
+    border: none;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 8px;
+}
+
+.inputButton{
+    border: none;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;   
+     padding: 8px;
+    margin-left: -10px;
+
+}
